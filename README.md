@@ -1,2 +1,1 @@
-# website
-Backup for justingodard.com
+Backup for justingodard.com. Nothing more.
