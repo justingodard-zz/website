@@ -57,6 +57,6 @@ table {
 *			{ -webkit-font-smoothing: antialiased; }
 body			{ }
 html 			{ margin: 0; padding: 90px 120px; background-color: #111;}
-p 			{ font: 400 2em/1.4 "IBM Plex Sans"; color: #FFF; margin: 0px; padding: 0px 0px 1em; width: 70%; max-width: 700px}
-a 			{ color: #FFF; text-decoration: none; border-bottom: 3px solid #666; padding-bottom: 2px; font-weight: 700;}
-a:hover			{ text-decoration: none; border-bottom: 4px solid #FFF;}
+p 			{ font: 400 2em/1.4 "IBM Plex Sans"; color: #CCC; margin: 0px; padding: 0px 0px 1em; width: 70%; max-width: 700px}
+a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 3px; font-weight: 700;}
+a:hover			{ text-decoration: none; border-bottom: 2px solid #FFF;}
