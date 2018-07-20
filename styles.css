@@ -58,3 +58,4 @@ p 			{ font: 400 2em/1.6 "IBM Plex Mono"; color: #CCC; margin: 0px; padding: 0px
 a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 4px; font-weight: 500;}
 a:hover			{ text-decoration: none; border-bottom: 2px solid #FFF;}
 #statement		{ color: #FFF;}
+#work			{ font-style: italic;}
