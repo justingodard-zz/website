@@ -55,7 +55,7 @@ table {
 body			{ }
 html 			{ margin: 0; padding: 90px 120px; background-color: #111;}
 p 			{ font: 400 2em/1.6 "IBM Plex Mono"; color: #CCC; margin: 0px; padding: 0px 0px 1em; width: 70%; max-width: 700px}
-a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 4px; font-weight: 500;}
+a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 4px;}
 a:hover			{ text-decoration: none; border-bottom: 2px solid #FFF;}
 #statement		{ color: #FFF;}
 #work			{ font-style: italic;}
