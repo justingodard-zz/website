@@ -58,4 +58,4 @@ p 			{ font: 400 3em/1.6 "IBM Plex Sans"; color: #CCC; margin: 0 auto; padding: 
 a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 4px;}
 a:hover			{ text-decoration: none; border-bottom: 2px solid #FFF;}
 #statement		{ color: #FFF;}
-#work			{ font-style: italic;}
+#work			{ }
