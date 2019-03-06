@@ -53,9 +53,8 @@ table {
 
 *			{ -webkit-font-smoothing: antialiased; }
 body			{ }
-html 			{ margin: 0; padding: 4rem; background-color: #111;}
-p 			{ font: 400 3em/1.6 "IBM Plex Sans"; color: #CCC; margin: 0 auto; padding: 0px 0px 1em; max-width: 60rem/*!content_center*/;}
+html 			{ margin: 0; padding: 4rem; background-color: #111; font: 400 3em/1.6 "IBM Plex Sans";}
+p 			{ color: #CCC; margin: 0 auto; padding: 0 0 1em; max-width: 60rem/*!content_center*/;}
 a 			{ color: #FFF; text-decoration: none; border-bottom: 2px solid #CCC; padding-bottom: 4px;}
 a:hover			{ text-decoration: none; border-bottom: 2px solid #FFF;}
-#statement		{ color: #FFF;}
-#work			{ }
+.work-btn		{ background-color: #000; padding: 0.5rem 1rem; color: #111;}
