@@ -51,7 +51,7 @@ table {
 }
 
 
-*			{ text-rendering: optimizeLegibility; }
+*			{ -webkit-font-smoothing: antialiased;}
 body			{ }
 html 			{ margin: 0; padding: 4rem; background-color: #111;}
 p 			{ font: 400 2.441em/1.4 "IBM Plex Serif"; color: #CCC; margin: 0 auto; padding: 0 0 1em; max-width: 60rem/*!content_center*/;}
